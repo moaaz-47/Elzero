@@ -1961,15 +1961,19 @@ a {
 }
 
 .footer .container .zero-f ul li:hover .face {
-    background-color: #1d6296;
+    background-color: #1877f2;
 }
 
 .footer .container .zero-f ul li:hover .twitter {
-    background-color: #03a9f4;
+    background-color: #1da1f2;
 }
 
 .footer .container .zero-f ul li:hover .youtube {
-    background-color: red;
+    background-color: #ff0000;
+}
+
+.footer .container .zero-f ul li:hover i {
+    color: white;
 }
 
 .footer .container .zero-f i {
